@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kartikmalhotra
-- I’m interested in Flutter, dart, blockchain 
-- I’m looking to collaborate on open source projects
+- 👋 Hi, I’m @kartikmalhotra  
+- I’m looking to collaborate on open source projects 
 - My Email is kartik.malhotra177@gmail.com
 
 <!---
