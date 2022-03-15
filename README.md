@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kartikmalhotra  
 - I’m looking to collaborate on open source projects 
-- My Email is kartik.malhotra177@gmail.com
+- Email kartik.malhotra177@gmail.com
+- Stack overflow https://stackoverflow.com/users/11649497/kartik-malhotra
 
 <!---
 kartikmalhotra/kartikmalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
