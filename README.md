@@ -4,6 +4,7 @@
 - Stack Overflow https://stackoverflow.com/users/11649497/kartik-malhotra
 - Twitter https://twitter.com/malhotra177
 - Personal website https://kartik-portfolio-zeta.vercel.app
+- ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=green)
 
 <!---
 kartikmalhotra/kartikmalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
