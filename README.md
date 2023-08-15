@@ -31,8 +31,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-  ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=ff69b4)
-
+<p> ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=ff69b4)
+</p>
+ 
 <!---
 kartikmalhotra/kartikmalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
