@@ -4,6 +4,8 @@
 - Stack Overflow https://stackoverflow.com/users/11649497/kartik-malhotra
 - Twitter https://twitter.com/malhotra177
 - Personal website https://kartik-portfolio-zeta.vercel.app
+- ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=ff69b4)
+  
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -30,8 +32,6 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<p> ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=ff69b4)
 </p>
  
 <!---
