@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @kartikmalhotra ✨✨
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Kartik Malhotra, Senior software developer at Zignite Labs Banglore India
+
 
 ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=blueviolet)
-  
+
+<h3>Things I code with</h3>
+
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
