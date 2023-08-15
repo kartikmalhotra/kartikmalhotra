@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kartikmalhotra ✨✨
-- I’m looking to collaborate on open-source projects 
 
 ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=blueviolet)
   
