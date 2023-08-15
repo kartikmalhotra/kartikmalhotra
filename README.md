@@ -4,7 +4,7 @@
 - Stack Overflow https://stackoverflow.com/users/11649497/kartik-malhotra
 - Twitter https://twitter.com/malhotra177
 - Personal website https://kartik-portfolio-zeta.vercel.app
-- ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=blueviolet)
   
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
