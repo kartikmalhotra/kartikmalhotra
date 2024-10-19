@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I’m Kartik Malhotra, a passionate Mobile Application Developer with expertise in building user-friendly and innovative apps for both iOS and Android. With a strong foundation in Swift, Kotlin, and Flutter, I focus on creating seamless user experiences and delivering high-quality solutions. Explore my projects to see how I turn ideas into reality and feel free to connect with me!
+<p>Welcome to my page! </br></br>  I’m Kartik Malhotra, a passionate Mobile Application Developer with expertise in building user-friendly and innovative apps for both iOS and Android. With a strong foundation in Swift, Kotlin, and Flutter, I focus on creating seamless user experiences and delivering high-quality solutions. Explore my projects to see how I turn ideas into reality and feel free to connect with me!
 
 
 
