@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Kartik Malhotra, Senior software developer at Zignite Labs Banglore India
+<p>Welcome to my page! </br> I'm Kartik Malhotra, Mobile Application Developer
 
 
 ![](https://komarev.com/ghpvc/?username=kartikmalhotra&color=blueviolet)
